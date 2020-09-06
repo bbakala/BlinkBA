@@ -8,3 +8,7 @@ radek3
 ## Seznam funkci:
 - blikani
 - pipani
+
+
+### Toto pridal bakis
+pridavam novy commit do masteru
